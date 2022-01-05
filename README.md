@@ -1,5 +1,5 @@
 # i大工Lite
-## 🎈本项目采用unity引擎编写前端UI，采用FastAPI库编写后端响应✨
+## 🎈本项目采用unity引擎编写前端UI，采用FastAPI库编写后端✨
 主要用于安卓平台，也可用于PC
 
 **主要代码为c#和python** 🤩
