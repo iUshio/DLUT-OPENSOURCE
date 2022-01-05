@@ -9,7 +9,7 @@
 **因此获取教务处api，精简前端，为查成绩提供极简通道**
 
 ## 🎈项目结构
-### 📲[戳我下载👉安卓包下载 v0.1.0👈戳我下载](https://github.com/iUshio/DLUT-OPENSOURCE/releases/tag/v0.1.0) 若不能下载可以在源文件中获取apk
+### 📲[戳我下载👉安卓包下载 v0.1.0👈戳我下载](https://github.com/iUshio/DLUT-OPENSOURCE/releases/tag/v0.1.0)
 ### opensource文件为unity源文件
 ### source为服务器后端文件，需自主配置参数
 
@@ -41,6 +41,6 @@
 ## 🎈完成人员
 fionajoyo ***~~无 双 剑 击~~ 🤺 菲奥娜😍***
 
-Anchor-Guan 
+Anchor 
 
 iUshio
