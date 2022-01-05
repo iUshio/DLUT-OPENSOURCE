@@ -2,12 +2,12 @@
 ## 本项目采用unity引擎编写前端UI，采用FastAPI库编写后端响应✨
 主要用于安卓平台，也可用于PC
 **主要代码为c#和python** 🤩
-### 教务处查成绩十分不稳定，因此获取教务处api，精简前端，为查成绩提供极简通道
+### 教务处查成绩~~十分稳定~~（不是），因此获取教务处api，精简前端，为查成绩提供极简通道
 
 ## 项目结构
+### 📲[安卓包下载](https://github.com/iUshio/DLUT-OPENSOURCE/raw/main/i%E5%A4%A7%E5%B7%A5Lite.apk)
 ### opensource文件为unity源文件
 ### source为服务器后端文件，需自主配置参数
-
 
 ## 功能如下
 ### 1.成绩查询📑✅
@@ -33,3 +33,8 @@
 ***id*** 学号
 ***mail*** 邮箱
 （仅已授权的用户可用）
+
+## 完成人员
+fionajoyo ***~~无双剑击~~菲奥娜😍***
+Anchor-Guan 
+iUshio
